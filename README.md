@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CityJS Singapore 2023 - Headless and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
